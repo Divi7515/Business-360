@@ -178,30 +178,27 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report](https://app.powerbi.com/groups/8a15becd-8fb4-42af-a803-172752641190/reports/93f40d86-11a9-4c78-a545-0046b78bd98f/783dd6b22cb1f8f88b9b?experience=power-bi)
+(https://app.powerbi.com/groups/8a15becd-8fb4-42af-a803-172752641190/reports/93f40d86-11a9-4c78-a545-0046b78bd98f/783dd6b22cb1f8f88b9b?experience=power-bi)
 
 ## Info Page
 
 ![Info.gif](https://github.com/Divi7515/Business-360/blob/main/Home%20page.png)
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/Divi7515/Business-360/blob/main/Finance%20View.png)
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
-
+![Sales.gif](https://github.com/Divi7515/Business-360/blob/main/Finance%20View.png)
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
-
+![Marketing.gif](https://github.com/Divi7515/Business-360/blob/main/Marketing%20View.png)
 ## Supply chain View
 
 ![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
-
+![Executive.gif](https://github.com/Divi7515/Business-360/blob/main/Executive%20View.png)
 ## Products
 
 ![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
