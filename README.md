@@ -4,7 +4,7 @@
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-Live Report: (https://app.powerbi.com/groups/8a15becd-8fb4-42af-a803-172752641190/reports/93f40d86-11a9-4c78-a545-0046b78bd98f/783dd6b22cb1f8f88b9b?experience=power-bi)
+Live Dashboard: (https://app.powerbi.com/groups/8a15becd-8fb4-42af-a803-172752641190/reports/93f40d86-11a9-4c78-a545-0046b78bd98f/783dd6b22cb1f8f88b9b?experience=power-bi)
 ## Tech stacks
 
 - SQL
@@ -157,7 +157,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+<img src="https://github.com/Divi7515/Business-360/blob/main/Data%20model.png" class="center">
 
 ### Dashboard designing
 
