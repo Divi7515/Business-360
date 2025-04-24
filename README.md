@@ -178,8 +178,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-(https://app.powerbi.com/groups/8a15becd-8fb4-42af-a803-172752641190/reports/93f40d86-11a9-4c78-a545-0046b78bd98f/783dd6b22cb1f8f88b9b?experience=power-bi)
-
+(https://app.powerbi.com/groups/8a15becd-8fb4-42af-a803-172752641190/reports/93f40d-a9-4c78-a545-004678bd98f/783dd6b221f8f88b9b?experience=power-bi)
 ## Info Page
 
 ![Info.gif](https://github.com/Divi7515/Business-360/blob/main/Home%20page.png)
@@ -194,17 +193,10 @@ In Home view, all the views button will be available. User will land on specific
 ![Marketing.gif](https://github.com/Divi7515/Business-360/blob/main/Marketing%20View.png)
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
-
+![Supply chain.gif](https://github.com/Divi7515/Business-360/blob/main/Supply%20Chain%20View.png)
 ## Executive View
 
 ![Executive.gif](https://github.com/Divi7515/Business-360/blob/main/Executive%20View.png)
-## Products
-
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
-
 
 ## Project Outcome
 
