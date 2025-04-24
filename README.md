@@ -4,7 +4,7 @@
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-(https://app.powerbi.com/groups/8a15becd-8fb4-42af-a803-172752641190/reports/93f40d86-11a9-4c78-a545-0046b78bd98f/783dd6b22cb1f8f88b9b?experience=power-bi)
+Live Report: (https://app.powerbi.com/groups/8a15becd-8fb4-42af-a803-172752641190/reports/93f40d86-11a9-4c78-a545-0046b78bd98f/783dd6b22cb1f8f88b9b?experience=power-bi)
 ## Tech stacks
 
 - SQL
@@ -167,19 +167,18 @@ Based on the mock ups received as requirement, the team will start designing the
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button 
 
-- Info
+- Home Page
 - Finance View
 - Sales View
 - Marketing View
 - Supply chain View
 - Executive View
-- Products
 - Support
 
 ## Overall Report
 
 (https://app.powerbi.com/groups/8a15becd-8fb4-42af-a803-172752641190/reports/93f40d-a9-4c78-a545-004678bd98f/783dd6b221f8f88b9b?experience=power-bi)
-## Info Page
+## Home Page
 
 ![Info.gif](https://github.com/Divi7515/Business-360/blob/main/Home%20page.png)
 ## Finance View
